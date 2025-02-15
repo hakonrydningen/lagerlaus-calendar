@@ -7,91 +7,98 @@ BEGIN:VEVENT
 SUMMARY:Prosjekt: Stativbooking - denstu
 DTSTART:20250212T230000Z
 DTEND:20250215T230000Z
-DTSTAMP:20250215T222716Z
+DTSTAMP:20250215T222824Z
 UID:project-4WSxjKq4zbyQvHphNBjj-8kGaPfIdc1GWsHZ5naJk-Rf5nsnmQMyDX0duSSRkL
 DESCRIPTION:Prosjekt: Stativbooking - denstu\n\nBooket av:\n• Håkon Ryd
- ningen\n\nUtstyr:
+ ningen\n\nUtstyr:\n• Atomos Shinobi (1 stk)\n• Libec Tripod T72 H55 (1
+  stk)\n• Smallrig SmallRig Side håndtak 2187 Wooden Nato (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: VI PRØVER EN LØRDAGSBOOKING
 DTSTART:20250218T000000Z
 DTEND:20250220T000000Z
-DTSTAMP:20250215T222717Z
+DTSTAMP:20250215T222824Z
 UID:project-8RIRVRvTrK4ahhPz6WTu-l9Hkk3zIlz8sIlho8YDR
 DESCRIPTION:Prosjekt: VI PRØVER EN LØRDAGSBOOKING\n\nBooket av:\n• Hå
- kon Rydningen\n\nUtstyr:
+ kon Rydningen\n\nUtstyr:\n• Sachtler FSB 6 (1 stk)\n• Sony ACDP-060D01
+  (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: Uten prosjekt
 DTSTART:20250212T230000Z
 DTEND:20250214T230000Z
-DTSTAMP:20250215T222717Z
+DTSTAMP:20250215T222824Z
 UID:project-A1Z7YmWukjegzPslKvet-GLd7lOAsjVRT0Ojn2ZwA-nW3RbywVP0zggPTrijZR
 DESCRIPTION:Prosjekt: Uten prosjekt\n\nBooket av:\n• Håkon Rydningen\n\
- nUtstyr:
+ nUtstyr:\n• Atomos Shinobi (1 stk)\n• Hedbox BP95D BP95D (1 stk)\n• 
+ Sachtler FSB 6 (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: NTF MARBELLA
 DTSTART:20250212T230000Z
 DTEND:20250216T230000Z
-DTSTAMP:20250215T222718Z
+DTSTAMP:20250215T222824Z
 UID:project-AlEWwQmlHAeYGOIqibMi-HN7UfcjJROD2Yk8BWuH4-RTdhWdm4Csl2uhu5cz1q
  -XTCtYSY8y5981tKTZn1f
 DESCRIPTION:Prosjekt: NTF MARBELLA\n\nBooket av:\n• Håkon Rydningen\n\n
- Utstyr:
+ Utstyr:\n• DJI Focus pro (1 stk)\n• Fujifilm Fujifilm XF 16-55 f/2.8 W
+ R (1 stk)\n• Skjermer (1 stk)\n• Sony ACDP-060D01 (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: Hallo 👶🏼
 DTSTART:20250220T000000Z
 DTEND:20250222T000000Z
-DTSTAMP:20250215T222718Z
+DTSTAMP:20250215T222824Z
 UID:project-H5qUH5hwYz7zmZkRVY31-vts82toLhTTlRSsEgsz1
 DESCRIPTION:Prosjekt: Hallo 👶🏼\n\nBooket av:\n• Ida Hindrum\n\nUts
- tyr:
+ tyr:\n• Atomos Shinobi (1 stk)\n• Hedbox BP95D BP95D (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: Marbella test drone
 DTSTART:20250214T230000Z
 DTEND:20250218T230000Z
-DTSTAMP:20250215T222719Z
+DTSTAMP:20250215T222824Z
 UID:project-HirokYNdyQWFQnEozuMf-Mkz3CvkfY6lXeGxYBRzQ-bK7ItFLLkIwPa51rFA3l
 DESCRIPTION:Prosjekt: Marbella test drone\n\nBooket av:\n• Håkon Rydnin
- gen\n\nUtstyr:
+ gen\n\nUtstyr:\n• DJI Bright Monitor (1 stk)\n• DJI DJI Battery charge
+ r hub WCH2 (1 stk)\n• DJI WB37 (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: NY DAG I MARBELLA
 DTSTART:20250216T000000Z
 DTEND:20250218T000000Z
-DTSTAMP:20250215T222719Z
+DTSTAMP:20250215T222824Z
 UID:project-N5JvwPXb5svjM08aXuYN-pZoBYbYAutIKeOTNRtBh
 DESCRIPTION:Prosjekt: NY DAG I MARBELLA\n\nBooket av:\n• Håkon Rydninge
- n\n\nUtstyr:
+ n\n\nUtstyr:\n• Manfrotto Friksjonsarm 244 Mini (1 stk)\n• Smallrig Sm
+ allRig Side håndtak 2187 Wooden Nato (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: Prøver oss igjen på en booking
 DTSTART:20250214T230000Z
 DTEND:20250217T230000Z
-DTSTAMP:20250215T222719Z
+DTSTAMP:20250215T222824Z
 UID:project-QywezlhUttAey4BoaI1t
 DESCRIPTION:Prosjekt: Prøver oss igjen på en booking\n\nBooket av:\n• 
- Håkon Rydningen\n\nUtstyr:
+ Håkon Rydningen\n\nUtstyr:\n• Nanlite Forza 150B (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: KULT PROSJEKT
 DTSTART:20250227T230000Z
 DTEND:20250307T230000Z
-DTSTAMP:20250215T222719Z
+DTSTAMP:20250215T222824Z
 UID:project-WIZmmiz07HGkPDmrMuPn-baLkdfhiVUkmQu2S95Vp
 DESCRIPTION:Prosjekt: KULT PROSJEKT\n\nBooket av:\n• Håkon Rydningen\n\
- nUtstyr:
+ nUtstyr:\n• Atomos Shinobi (1 stk)\n• Fujifilm Fujifilm XF 16-55 f/2.8
+  WR (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
