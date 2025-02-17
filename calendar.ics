@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Lagerlaus//Equipment Booking System//EN
+PRODID:-//Lagerlaus//Equipment Booking System//lagerlaus.no//EN
 X-WR-CALDESC:Oversikt over utstyrsbookinger
 X-WR-CALNAME:Lagerlaus Utstyrsbookinger
 BEGIN:VEVENT
 SUMMARY:Prosjekt: Stativbooking - denstu
 DTSTART:20250212T230000Z
-DTEND:20250216T202904Z
-DTSTAMP:20250216T202905Z
+DTEND:20250217T210733Z
+DTSTAMP:20250217T210733Z
 UID:project-4WSxjKq4zbyQvHphNBjj-8kGaPfIdc1GWsHZ5naJk
 DESCRIPTION:Prosjekt: Stativbooking - denstu\n\nKunde:\nIngen kunde regist
  rert\n\nBooket av:\n• Håkon Rydningen\n\nUtstyr:\n• Atomos Shinobi (1
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:Prosjekt: VI PRØVER EN LØRDAGSBOOKING
 DTSTART:20250218T000000Z
 DTEND:20250220T000000Z
-DTSTAMP:20250216T202905Z
+DTSTAMP:20250217T210733Z
 UID:project-8RIRVRvTrK4ahhPz6WTu-l9Hkk3zIlz8sIlho8YDR
 DESCRIPTION:Prosjekt: VI PRØVER EN LØRDAGSBOOKING\n\nKunde:\nIngen kunde
   registrert\n\nBooket av:\n• Håkon Rydningen\n\nUtstyr:\n• Sachtler F
@@ -29,18 +29,18 @@ BEGIN:VEVENT
 SUMMARY:Prosjekt: Uten prosjekt
 DTSTART:20250212T230000Z
 DTEND:20250214T230000Z
-DTSTAMP:20250216T202906Z
+DTSTAMP:20250217T210733Z
 UID:project-A1Z7YmWukjegzPslKvet-GLd7lOAsjVRT0Ojn2ZwA-nW3RbywVP0zggPTrijZR
 DESCRIPTION:Prosjekt: Uten prosjekt\n\nKunde:\nIngen kunde registrert\n\nB
  ooket av:\n• Håkon Rydningen\n\nUtstyr:\n• Atomos Shinobi (1 stk)\n
- • Hedbox BP95D BP95D (1 stk)\n• Sachtler FSB 6 (1 stk)
+ • Hedbox BP95D (1 stk)\n• Sachtler FSB 6 (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prosjekt: NTF MARBELLA
 DTSTART:20250212T230000Z
 DTEND:20250216T230000Z
-DTSTAMP:20250216T202907Z
+DTSTAMP:20250217T210733Z
 UID:project-AlEWwQmlHAeYGOIqibMi-HN7UfcjJROD2Yk8BWuH4-RTdhWdm4Csl2uhu5cz1q
  -XTCtYSY8y5981tKTZn1f
 DESCRIPTION:Prosjekt: NTF MARBELLA\n\nKunde:\nIngen kunde registrert\n\nBo
@@ -50,21 +50,10 @@ DESCRIPTION:Prosjekt: NTF MARBELLA\n\nKunde:\nIngen kunde registrert\n\nBo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Prosjekt: Hallo 👶🏼
-DTSTART:20250220T000000Z
-DTEND:20250222T000000Z
-DTSTAMP:20250216T202907Z
-UID:project-H5qUH5hwYz7zmZkRVY31-vts82toLhTTlRSsEgsz1
-DESCRIPTION:Prosjekt: Hallo 👶🏼\n\nKunde:\nIngen kunde registrert\n\n
- Booket av:\n• Ida Hindrum\n\nUtstyr:\n• Atomos Shinobi (1 stk)\n• He
- dbox BP95D BP95D (1 stk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Prosjekt: Marbella test drone
 DTSTART:20250214T230000Z
 DTEND:20250218T230000Z
-DTSTAMP:20250216T202908Z
+DTSTAMP:20250217T210733Z
 UID:project-HirokYNdyQWFQnEozuMf-Mkz3CvkfY6lXeGxYBRzQ-bK7ItFLLkIwPa51rFA3l
 DESCRIPTION:Prosjekt: Marbella test drone\n\nKunde:\nIngen kunde registrer
  t\n\nBooket av:\n• Håkon Rydningen\n\nUtstyr:\n• DJI Bright Monitor (
@@ -72,10 +61,20 @@ DESCRIPTION:Prosjekt: Marbella test drone\n\nKunde:\nIngen kunde registrer
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Prosjekt: Marbella dag 1
+DTSTART:20250217T230000Z
+DTEND:20250219T230000Z
+DTSTAMP:20250217T210733Z
+UID:project-MIhtpCAm0GkeLAz33MVC
+DESCRIPTION:Prosjekt: Marbella dag 1\n\nKunde:\n• NTF\n\nBooket av:\n•
+  Håkon Rydningen\n\nUtstyr:\n• Sony FX6 #1 (1 stk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Prosjekt: NY DAG I MARBELLA
 DTSTART:20250216T000000Z
 DTEND:20250218T000000Z
-DTSTAMP:20250216T202908Z
+DTSTAMP:20250217T210733Z
 UID:project-N5JvwPXb5svjM08aXuYN-pZoBYbYAutIKeOTNRtBh
 DESCRIPTION:Prosjekt: NY DAG I MARBELLA\n\nKunde:\nIngen kunde registrert\
  n\nBooket av:\n• Håkon Rydningen\n\nUtstyr:\n• Manfrotto Friksjonsarm
@@ -87,22 +86,11 @@ BEGIN:VEVENT
 SUMMARY:Prosjekt: Prøver oss igjen på en booking
 DTSTART:20250214T230000Z
 DTEND:20250217T230000Z
-DTSTAMP:20250216T202908Z
+DTSTAMP:20250217T210733Z
 UID:project-QywezlhUttAey4BoaI1t
 DESCRIPTION:Prosjekt: Prøver oss igjen på en booking\n\nKunde:\nIngen ku
  nde registrert\n\nBooket av:\n• Håkon Rydningen\n\nUtstyr:\n• Nanlite
   Forza 150B (1 stk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prosjekt: KULT PROSJEKT
-DTSTART:20250227T230000Z
-DTEND:20250307T230000Z
-DTSTAMP:20250216T202909Z
-UID:project-WIZmmiz07HGkPDmrMuPn-baLkdfhiVUkmQu2S95Vp
-DESCRIPTION:Prosjekt: KULT PROSJEKT\n\nKunde:\nIngen kunde registrert\n\nB
- ooket av:\n• Håkon Rydningen\n\nUtstyr:\n• Atomos Shinobi (1 stk)\n
- • Fujifilm Fujifilm XF 16-55 f/2.8 WR (1 stk)
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
